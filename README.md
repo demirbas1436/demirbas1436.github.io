@@ -11,9 +11,9 @@ Bu proje, aşağıdaki oyundan esinlenilerek geliştirilmiştir:
 
 ## Nasıl Oynanır?
 - **Yön Tuşları** veya **WASD** tuşları ile oyuncuyu hareket ettirin.
-- **E** tuşu ile etkileşimde bulunarak kutu alın veya makineleri kullanın.
-- **Q** tuşu ile kutuları yerleştirin veya kutuları fırlatın.
-
+- **E** tuşu ile etkileşimde bulunarak kutu alın veya makineleri kullanın.(Büyük E ile oynanıyor)
+- **Q** tuşu ile kutuları yerleştirin veya kutuları fırlatın.(Büyük Q ile oynanıyor)
+- (Caps Lock ile ilk önce klavyedeki harfleri büyüterek oynayabilirsiniz)
 ## Görseller
 - **Ekran Görüntüsü 1**
    ![Ekran görüntüsü 2025-05-20 005458](https://github.com/user-attachments/assets/68cfcfc0-de37-454b-9597-d6de25e6a1d4)
