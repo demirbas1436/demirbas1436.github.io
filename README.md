@@ -18,11 +18,11 @@ Bu proje, aşağıdaki oyundan esinlenilerek geliştirilmiştir:
 
 ## Görseller
 - **Ekran Görüntüsü 1**
-- ![Ekran görüntüsü 2025-05-20 005458](https://github.com/user-attachments/assets/68cfcfc0-de37-454b-9597-d6de25e6a1d4)
+   ![Ekran görüntüsü 2025-05-20 005458](https://github.com/user-attachments/assets/68cfcfc0-de37-454b-9597-d6de25e6a1d4)
 
   
-- **Ekran Görüntüsü 2**
-- ![Ekran görüntüsü 2025-05-20 005527](https://github.com/user-attachments/assets/ee0dc625-ac25-4716-876d-98cb59605fc3)
+- **Ekran Görüntüsü 2(kutunun içinde top olan görüntü)**
+  ![Ekran görüntüsü 2025-05-20 005527](https://github.com/user-attachments/assets/ee0dc625-ac25-4716-876d-98cb59605fc3)
 
 
 ## Oynanış Videosu
