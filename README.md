@@ -1,5 +1,3 @@
-# demirbas1436github.io
-
 # Everyware is Fine - Canvas Oyun
 
 ## Oyun Açıklaması
