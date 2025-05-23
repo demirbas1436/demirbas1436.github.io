@@ -24,7 +24,7 @@ Bu proje, aşağıdaki oyundan esinlenilerek geliştirilmiştir:
 
 
 ## Oynanış Videosu
-- [YouTube Oynanış Videosu](url)
+- [YouTube Oynanış Videosu](https://www.youtube.com/watch?v=wSk-ZD0WnTQ)
 
 
 ## Kurulum
